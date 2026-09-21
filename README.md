@@ -49,7 +49,7 @@ simple-rule-based-chatbot/
 
 ## 🖥️ Application Preview
 
-![Simple Chatbot Screenshot](chatbot-screenshot.png)
+![Simple Chatbot Screenshot](./chatbot-screenshot.png)
 
 
 🎯 Project Objective
