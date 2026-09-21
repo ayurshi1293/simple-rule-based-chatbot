@@ -45,6 +45,8 @@ simple-rule-based-chatbot/
 ├── README.md
 └── .gitignore
 
+## 🖥️ Application Preview
+![Simple Chatbot Screenshot](chatbot-screenshot.png)
 
 🎯 Project Objective
 The objective of this project is to build a simple rule-based chatbot while practicing Python fundamentals such as 
