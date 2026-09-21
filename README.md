@@ -56,14 +56,7 @@ conditional statements, functions, event handling, user input/output, and GUI de
 - Tkinter
 - DateTime
 - Object-oriented and event-driven GUI concepts
-
-## ▶️ How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/ayurshi1293/simple-rule-based-chatbot.git
-
+  
 🚀 Future Improvements
 
 Add voice input and text-to-speech
@@ -72,7 +65,16 @@ Add conversation history
 Add a database for storing responses
 Integrate an AI/NLP model in a future version
 
+## ▶️ How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/ayurshi1293/simple-rule-based-chatbot.git
+
+
 👩‍💻 Author
 Ayurshi Uchibagle
 B.Tech – Artificial Intelligence & Data Science
+
 ⭐ If you like this project, consider giving the repository a star!
