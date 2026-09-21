@@ -36,18 +36,21 @@ through an interactive graphical user interface.
 - GUI development
 - Date and time handling
 
-```markdown
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```text
 simple-rule-based-chatbot/
 │
 ├── chatbot.py
 ├── README.md
-└── .gitignore
+├── .gitignore
+└── chatbot-screenshot.png
+```
 
 ## 🖥️ Application Preview
+
 ![Simple Chatbot Screenshot](chatbot-screenshot.png)
+
 
 🎯 Project Objective
 The objective of this project is to build a simple rule-based chatbot while practicing Python fundamentals such as 
