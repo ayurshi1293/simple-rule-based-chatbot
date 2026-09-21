@@ -64,4 +64,3 @@ conditional statements, functions, event handling, user input/output, and GUI de
 ```bash
 git clone https://github.com/ayurshi1293/simple-rule-based-chatbot.git
 
-
