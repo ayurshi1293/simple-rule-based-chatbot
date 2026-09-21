@@ -64,3 +64,15 @@ conditional statements, functions, event handling, user input/output, and GUI de
 ```bash
 git clone https://github.com/ayurshi1293/simple-rule-based-chatbot.git
 
+🚀 Future Improvements
+
+Add voice input and text-to-speech
+Add more conversational responses
+Add conversation history
+Add a database for storing responses
+Integrate an AI/NLP model in a future version
+
+👩‍💻 Author
+Ayurshi Uchibagle
+B.Tech – Artificial Intelligence & Data Science
+⭐ If you like this project, consider giving the repository a star!
