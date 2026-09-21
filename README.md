@@ -36,6 +36,7 @@ through an interactive graphical user interface.
 - GUI development
 - Date and time handling
 
+```markdown
 ## 📂 Project Structure
 
 ```text
